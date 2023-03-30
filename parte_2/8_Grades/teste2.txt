@@ -1,0 +1,8 @@
+3 1 2
+Corrego_do_Guido_Zona_Rural_de_Itanhomi_Dist_Sao_Francisco_Jatai_MG -19.213250 -41.750599
+Itanhomi_MG -19.16325985919684 -41.85843301936984
+Jatai -19.239308 -41.771888
+Corrego_do_Guido_Zona_Rural_de_Itanhomi_Dist_Sao_Francisco_Jatai_MG Itanhomi_MG
+Corrego_do_Guido_Zona_Rural_de_Itanhomi_Dist_Sao_Francisco_Jatai_MG Itanhomi_MG
+Jatai Itanhomi_MG
+0 0 0
